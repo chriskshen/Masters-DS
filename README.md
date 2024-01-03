@@ -1,2 +1,2 @@
-# Masters-in-DS
+# Masters-DS
 
