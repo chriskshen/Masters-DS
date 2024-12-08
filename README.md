@@ -7,7 +7,7 @@ Decision Analytics
 Practical Machine Learning                
 Data Engineering with Go                
 Database Systems and Data Preparation	           
-Data Science and Digital Transformation
+Data Science and Digital Transformation     
 Artificial Intelligence
 
 
